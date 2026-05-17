@@ -58,3 +58,5 @@ The application allows customer experience managers or gate agents to input pass
 * `app.py` — The interactive Streamlit application serving the core inference model.
 * `airline_rf_pipeline.pkl` — Serialized machine learning model pipeline ready for deployment.
 * `requirements.txt` — Environment specifications (`pandas`, `xgboost`, `scikit-learn`, `streamlit`, `pyngrok`, `joblib`).
+
+* Note: The pre-trained model file (airline_rf_pipeline.pkl) is hosted externally due to GitHub size limits
