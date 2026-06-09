@@ -3,10 +3,13 @@ import pandas as pd
 import joblib
 
 st.write("APP STARTED")
+@st.cache_resource
+def load_pipeline():
+    return joblib.load("airline_rf_pipeline.pkl")
 try:
-    model = joblib.load("airline_rf_pipeline.pkl")
+    pipeline = load_pipeline()
 except Exception as e:
-    st.error(f"Model load failed: {e}")
+    st.error(f"Failed to load model: {e}")
     st.stop()
 
 # 1. Page Configuration
