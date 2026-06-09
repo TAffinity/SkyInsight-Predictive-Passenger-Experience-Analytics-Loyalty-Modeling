@@ -1,7 +1,8 @@
 import streamlit as st
+st.set_page_config(page_title="Passenger Loyalty Predictor", layout="centered")
+
 import pandas as pd
 import joblib
-
 st.write("APP STARTED")
 @st.cache_resource
 def load_pipeline():
