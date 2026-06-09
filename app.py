@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import joblib
+model = joblib.load("airline_rf_pipeline.pkl")
 
 # 1. Page Configuration
 st.set_page_config(page_title="Passenger Loyalty Predictor", layout="centered")
