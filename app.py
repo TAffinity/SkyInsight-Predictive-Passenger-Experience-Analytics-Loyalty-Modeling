@@ -1,7 +1,11 @@
 import streamlit as st
 import pandas as pd
 import joblib
-model = joblib.load("airline_rf_pipeline.pkl")
+try:
+    model = joblib.load("airline_rf_pipeline.pkl")
+except Exception as e:
+    st.error(f"Model load failed: {e}")
+    st.stop()
 
 # 1. Page Configuration
 st.set_page_config(page_title="Passenger Loyalty Predictor", layout="centered")
