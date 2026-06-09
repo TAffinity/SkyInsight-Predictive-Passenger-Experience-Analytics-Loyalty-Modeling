@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 import joblib
+
+st.write("APP STARTED")
 try:
     model = joblib.load("airline_rf_pipeline.pkl")
 except Exception as e:
