@@ -1,20 +1,7 @@
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-import os
-from sklearn.model_selection import train_test_split, GridSearchCV
-from sklearn.impute import SimpleImputer
-from sklearn.preprocessing import StandardScaler, OneHotEncoder, OrdinalEncoder
-from sklearn.linear_model import LogisticRegression
-from sklearn.ensemble import RandomForestClassifier
-
-from sklearn.metrics import accuracy_score, recall_score, precision_score, f1_score, cohen_kappa_score, classification_report, roc_auc_score
-from sklearn.metrics import ConfusionMatrixDisplay
-from sklearn.pipeline import make_pipeline
-from sklearn.inspection import permutation_importance
-
-from sklearn.compose import make_column_transformer
-from sklearn import set_config
-set_config(transform_output="pandas")
-pd.set_option('future.no_silent_downcasting', True)
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
