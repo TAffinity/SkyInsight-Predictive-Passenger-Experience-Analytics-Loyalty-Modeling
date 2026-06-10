@@ -1,7 +1,7 @@
 # ✈️ SkyInsight: Predictive Passenger Experience Analytics & Loyalty Modeling
 
-### 🚀 Live Application  
-🌐 Try the App  
+## 🚀 Live Application  
+### 🌐 Try the App  
 👉 https://skyinsight-predictive-passenger-experience-analytics-loyalty-m.streamlit.app/
 
 ### 🎯 Overview
