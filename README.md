@@ -1,8 +1,16 @@
 # ✈️ SkyInsight: Predictive Passenger Experience Analytics & Loyalty Modeling
 
-An end-to-end Machine Learning solution designed to classify airline passenger satisfaction, detect early-warning churn signals, and maximize customer retention. 
+###🚀 Live Application  
+🌐 Try the App  
+👉 https://YOUR-STREAMLIT-APP.streamlit.app
 
-This project transforms standard, reactive survey data into a proactive retention engine, achieving **96.1% Accuracy** and **99.5% ROC-AUC score**.
+### 🎯 Overview
+An end-to-end Machine Learning solution designed to classify airline passenger satisfaction, detect early-warning churn signals, and maximize customer retention.
+
+This project transforms standard, reactive survey data into a proactive retention engine.
+
+### 📊 Performance
+Achieves **96.1% Accuracy** and **99.5% ROC-AUC score**
 
 ---
 
