@@ -12,9 +12,10 @@ An end-to-end Machine Learning system designed to predict airline passenger sati
 The project transforms traditional reactive survey analytics into a proactive, decision-oriented retention engine used for real-time customer experience insights.
 
 ### 📊 Performance
-**Accuracy**: 96.1%
-**ROC-AUC**: 99.5%
-Trained on **130,000+** passenger records
+- **Accuracy**: 96.1%
+- **ROC-AUC**: 99.5%
+- Trained on **130,000+** passenger records
+- Model Type: Supervised Classification
 
 ---
 
