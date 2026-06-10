@@ -7,11 +7,14 @@
 ---
 
 ### 🎯 Overview
-An end-to-end Machine Learning solution designed to classify airline passenger satisfaction, detect early-warning churn signals, and maximize customer retention.
-Transforms reactive survey data into a proactive retention engine.
+An end-to-end Machine Learning system designed to predict airline passenger satisfaction, detect early-warning churn signals, and optimize customer retention strategies.
+
+The project transforms traditional reactive survey analytics into a proactive, decision-oriented retention engine used for real-time customer experience insights.
 
 ### 📊 Performance
-**96.1% Accuracy** | **99.5% ROC-AUC**
+**Accuracy**: 96.1%
+**ROC-AUC**: 99.5%
+Trained on **130,000+** passenger records
 
 ---
 
