@@ -44,7 +44,7 @@ The production pipeline compares three diagnostic baselines trained on over **13
 
 | Model | Overall Accuracy | Prediction Precision | Risk Detection (Recall) | F1-Score | Model Reliability (ROC-AUC) |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **XGBoost (Champion)** | **96.1%** | **97.1%** | **95.7%** | **96.4%** | **99.5%** |
+| **XGBoost (Champion)** | 96.1% | 97.1% | 95.7% | 96.4% | 99.5% |
 | **Random Forest** | 96.0% | 96.9% | 95.6% | 96.3% | 99.4% |
 | **Logistic Regression** | 83.5% | 84.6% | 85.0% | 84.8% | 90.9% |
 
@@ -65,4 +65,4 @@ The application allows customer experience managers or gate agents to input pass
 * `airline_satisfaction_analysis.ipynb` — Comprehensive notebook detailing the data processing, Exploratory Data Analysis (EDA), feature engineering, and model validation pipeline.
 * `app.py` — The interactive Streamlit application serving the core inference model.
 * `airline_rf_pipeline.pkl` — Serialized machine learning model pipeline ready for deployment.
-* `requirements.txt` — Environment specifications (`pandas`, `randomforest`, `scikit-learn`, `streamlit`, `pyngrok`, `joblib`).
+* `requirements.txt` — Environment specifications.
