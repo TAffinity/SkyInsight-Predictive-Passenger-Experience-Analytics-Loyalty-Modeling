@@ -5,7 +5,7 @@
 👉 https://skyinsight-predictive-passenger-experience-analytics-loyalty-m.streamlit.app/
 
 ## 📊 Presentation  
-👉 [Download PDF](assets/SkyInsight_Presentation.pdf)
+👉 [Download PDF](predictive_analytics_pres.pdf)
 
 ---
 
