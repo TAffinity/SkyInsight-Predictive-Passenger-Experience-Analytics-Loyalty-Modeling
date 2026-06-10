@@ -1,7 +1,7 @@
 import joblib
 import pandas as pd
 import streamlit as st
-# import plotly.graph_objects as go
+import plotly.graph_objects as go
 
 # 1. Page Configuration & Custom Executive Theme
 st.set_page_config(page_title="SkyInsight Executive Dashboard", layout="wide", initial_sidebar_state="expanded")
