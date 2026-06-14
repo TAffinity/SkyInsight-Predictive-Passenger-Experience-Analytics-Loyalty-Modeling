@@ -5,7 +5,8 @@
 👉 https://skyinsight-predictive-passenger-experience-analytics-loyalty-m.streamlit.app/
 
 
-## 📊 Presentation  
+## 📊 Project Presentation
+Executive presentation covering the business problem, analytical methodology, machine learning results, key insights, and customer retention recommendations.
 👉 [Download PDF](predictive_analytics_pres.pdf)
 
 ---
@@ -75,6 +76,6 @@ The application allows customer experience managers or gate agents to input pass
 * `app.py` — The interactive Streamlit application serving the core inference model.
 * `airline_rf_pipeline.pkl` — Serialized machine learning model pipeline ready for deployment.
 * `requirements.txt` — Environment specifications.
-* `requirements.txt` — Environment specifications.
+* `predictive_analytics_pres.pdf` — executive presentation covering the business problem, methodology, model performance, key insights, and retention strategy recommendations.
 
 ---
