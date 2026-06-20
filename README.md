@@ -19,7 +19,7 @@ The project transforms traditional reactive survey analytics into a proactive, d
 ### 📊 Performance
 - **Accuracy:** 96.1%
 - **ROC-AUC:** 99.5%
-- **Training Data:** 130,000+ passenger records
+- **Training Data:** 130,000 passenger records
 - **Model Type**: Supervised Classification
 
 ---
